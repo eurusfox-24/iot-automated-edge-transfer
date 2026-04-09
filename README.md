@@ -29,12 +29,6 @@ The system demonstrates how edge devices collect, send, and manage large files i
   - *Webcam access:* Ensured that `recorder.py` had proper permissions to access the webcam.
 
 ## Screenshots
-*(Please add your screenshots here)*
-- [ ] Receiver running
-- [ ] Recorder running
-- [ ] Sender running
-- [ ] At least one saved video on the receiver side
-- [ ] Evidence that the sender deleted the original file
 
 ## Optional Extension
 The code has been written following the instructions provided. Further modifications for transfer time, file size, and automatic retries can be added as needed.
