@@ -29,6 +29,7 @@ The system demonstrates how edge devices collect, send, and manage large files i
   - *Webcam access:* Ensured that `recorder.py` had proper permissions to access the webcam.
 
 ## Screenshots
+![Receiver running screenshot](Screenshot%202026-04-09%20135948.png)
 
 ## Optional Extension
 The code has been written following the instructions provided. Further modifications for transfer time, file size, and automatic retries can be added as needed.
