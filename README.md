@@ -1,6 +1,5 @@
-# Wireless and Radiotechnology Course 2026 - Assignment: IoT Video Lab
-
-This repository contains the code for an automated large-data IoT pipeline.
+#Automated Edge-to-Server Video Pipeline
+A reliable IoT data ingestion system featuring automated recording, transfer, and verification.
 
 ## System Overview
 The system demonstrates how edge devices collect, send, and manage large files in a real IoT environment. 
